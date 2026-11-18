@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timsteeb.github.io/Verhaltenskodex-Siep-Kieswerk-GmbH-co.-KG/sitemap.xml
